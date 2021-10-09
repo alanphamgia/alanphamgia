@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alanphamgia
+- 👀 I’m interested in Designing and Developing E-commerce Website
+- 🌱 I’m currently learning Advanced Algorithms
+- 💞️ I’m looking to collaborate on High-functioning E-commerce Website project (No Monolith)
+- 📫 How to reach me -> alan@phamgia.digital
